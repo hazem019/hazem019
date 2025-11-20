@@ -80,9 +80,10 @@ about using data to solve real-world problems and drive positive business outcom
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hazem019&theme=algolia&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=hazem019&theme=algolia&hide_border=false" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazem019&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=hazem019&theme=algolia&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=hazem019&theme=algolia&hide_border=false" height="150" alt="streak graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazem019&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" />
 </div>
+
 
 ![Snake Animation](https://github.com/MohamedMadian7/MohamedMadian7/blob/output/snake-dark.svg)
