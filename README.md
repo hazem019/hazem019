@@ -7,7 +7,8 @@
 [![GitHub Followers](https://img.shields.io/github/followers/hazem019?style=social)](https://github.com/hazem019)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](http://linkedin.com/in/hazem-mohamed03)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:hazem.m0260@gmail.com)
-[![Static Badge](https://img.shields.io/badge/View-CV-brightgreen)]([https://mohamedmadian-portfolio.netlify.app](https://drive.google.com/file/d/12QFwY5Dn4bI5Hfvqdkk441u6wLkc2GCo/view?usp=sharing))
+[![Static Badge](https://img.shields.io/badge/View-CV-brightgreen)](https://drive.google.com/file/d/12QFwY5Dn4bI5Hfvqdkk441u6wLkc2GCo/view?usp=sharing)
+
 
 
 </div>
