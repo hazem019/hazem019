@@ -24,14 +24,16 @@
 
 <div align="left">
   
-I’m a Data Analyst passionate about turning raw data into actionable insights.
-Skilled in data cleaning, visualization, and statistical analysis, I transform complex datasets into clear and impactful stories that support data-driven decisions.
-Focused on EDA, dashboard creation, and data modeling to uncover valuable business insights and drive smarter solutions. 
+Data Analyst seeking to leverage data-driven insights to fuel business growth. With a strong foundation in
+Business Information Systems, I'm proficient in Excel, SQL, Python, R, Tableau, and Power BI.
+Through rigorous training with the Digital Egypt Pioneers Initiative (DEPI), I've honed my ability to analyze
+complex datasets, extract actionable insights, and translate them into strategic recommendations. I'm passionate
+about using data to solve real-world problems and drive positive business outcomes.
   
-  - 🔭 **Currently working on:** Founder & Owner of [NEXA](https://www.facebook.com/share/1BNVftURix/)   
+  - 🔭 **Currently working on:** Data Analysis Instructor at YAT Learning Centers 
   - 🌱 **Currently learning:** Data Analytics 
   - 💼 **Open to:** Data Analysis, Data Engineering  
-  - 📫 **Reach me at:** mohamedmadian2004@gmail.com
+  - 📫 **Reach me at:** hazem.m0260@gmail.com
 </div>
 
 ---
